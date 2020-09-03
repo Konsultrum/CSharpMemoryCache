@@ -1,0 +1,6 @@
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\bin\Debug\TestMemoryCache.exe.config
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\bin\Debug\TestMemoryCache.exe
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\bin\Debug\TestMemoryCache.pdb
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\obj\Debug\TestMemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\obj\Debug\TestMemoryCache.exe
+C:\Users\Tahir\Documents\Visual Studio 2017\Projects\InMemoryCache\TestMemoryCache\obj\Debug\TestMemoryCache.pdb
